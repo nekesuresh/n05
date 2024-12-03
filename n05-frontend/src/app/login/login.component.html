@@ -1,0 +1,33 @@
+<div class="login-container">
+  <div>
+    <h2>GenAI - Login</h2>
+    <form (ngSubmit)="onSubmit()">
+      <label for="username">Username:</label>
+      <input
+        type="text"
+        id="username"
+        [(ngModel)]="username"
+        placeholder="Enter your username"
+        aria-label="Username"
+        name="username"
+        required
+      />
+
+      <label for="password">Password:</label>
+      <input
+        type="password"
+        id="password"
+        [(ngModel)]="password"
+        placeholder="Enter your password"
+        aria-label="Password"
+        name="password"
+        required
+      />
+
+      <button type="submit">Login</button>
+    </form>
+
+    <p *ngIf="errorMessage" style="color: red;">{{ errorMessage }}</p>
+  </div>
+
+</div>

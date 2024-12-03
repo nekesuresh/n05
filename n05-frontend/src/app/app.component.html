@@ -1,0 +1,8 @@
+<nav>
+  <a routerLink="/dashboard" style="margin-right: 10px;">Dashboard</a>
+  <a routerLink="/summary" style="margin-right: 10px;">Summary</a>
+  <a routerLink="/reports" style="margin-right: 10px;">Reports</a>
+  <button (click)="logout()" *ngIf="isLoggedIn()">Logout</button>
+</nav>
+
+<router-outlet></router-outlet>
