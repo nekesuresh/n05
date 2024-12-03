@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/login/login.component.css"],
-  "sourcesContent": [".login-container {\r\n  width: 300px;\r\n  margin: 50px auto;\r\n  padding: 20px;\r\n  border: 1px solid #ccc;\r\n  border-radius: 10px;\r\n  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\r\n  display: flex;\r\n  flex-direction: column;\r\n  justify-content: center;\r\n}\r\n\r\n.login-container h2 {\r\n  text-align: center;\r\n}\r\n\r\n\r\nlabel {\r\n  display: block;\r\n  margin-bottom: 5px;\r\n}\r\n\r\ninput {\r\n  width: 100%;\r\n  padding: 8px;\r\n  margin-bottom: 15px;\r\n  border: 1px solid #ccc;\r\n  border-radius: 5px;\r\n  box-sizing: border-box;\r\n}\r\n\r\nbutton {\r\n  width: 100%;\r\n  padding: 10px;\r\n  background-color: #007afd;\r\n  color: white;\r\n  border: none;\r\n  border-radius: 5px;\r\n  cursor: pointer;\r\n  margin-top: 10px;\r\n}\r\n\r\nbutton:hover {\r\n  background-color: #0056b3;\r\n}\r\n\r\n.error {\r\n  color: red;\r\n  font-size: 14px;\r\n  text-align: center;\r\n}\r\n"],
-  "mappings": ";AAAA,CAAC;AACC,SAAO;AACP,UAAQ,KAAK;AACb,WAAS;AACT,UAAQ,IAAI,MAAM;AAClB,iBAAe;AACf,cAAY,EAAE,IAAI,IAAI,KAAK,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE;AACpC,WAAS;AACT,kBAAgB;AAChB,mBAAiB;AACnB;AAEA,CAZC,gBAYgB;AACf,cAAY;AACd;AAGA;AACE,WAAS;AACT,iBAAe;AACjB;AAEA;AACE,SAAO;AACP,WAAS;AACT,iBAAe;AACf,UAAQ,IAAI,MAAM;AAClB,iBAAe;AACf,cAAY;AACd;AAEA;AACE,SAAO;AACP,WAAS;AACT,oBAAkB;AAClB,SAAO;AACP,UAAQ;AACR,iBAAe;AACf,UAAQ;AACR,cAAY;AACd;AAEA,MAAM;AACJ,oBAAkB;AACpB;AAEA,CAAC;AACC,SAAO;AACP,aAAW;AACX,cAAY;AACd;",
-  "names": []
-}
