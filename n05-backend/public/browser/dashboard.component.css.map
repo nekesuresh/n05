@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/dashboard/dashboard.component.css"],
+  "sourcesContent": [".dashboard {\r\n  max-width: 1100px;\r\n  margin: 20px auto;\r\n  font-family: Arial, sans-serif;\r\n  line-height: 1.6;\r\n}\r\n\r\n.dashboard-image {\r\n  display: block; \r\n  margin: 0 auto 20px;\r\n  max-width: 100%;\r\n  border-radius: 8px;\r\n  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\r\n}\r\n\r\n.dashboard h2 {\r\n  text-align: center;\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.dashboard section {\r\n  margin-bottom: 30px;\r\n}\r\n\r\n.dashboard a {\r\n  color: blue;\r\n  text-decoration: underline;\r\n}\r\n"],
+  "mappings": ";AAAA,CAAC;AACC,aAAW;AACX,UAAQ,KAAK;AACb,eAAa,KAAK,EAAE;AACpB,eAAa;AACf;AAEA,CAAC;AACC,WAAS;AACT,UAAQ,EAAE,KAAK;AACf,aAAW;AACX,iBAAe;AACf,cAAY,EAAE,IAAI,IAAI,KAAK,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE;AACtC;AAEA,CAfC,UAeU;AACT,cAAY;AACZ,iBAAe;AACjB;AAEA,CApBC,UAoBU;AACT,iBAAe;AACjB;AAEA,CAxBC,UAwBU;AACT,SAAO;AACP,mBAAiB;AACnB;",
+  "names": []
+}
